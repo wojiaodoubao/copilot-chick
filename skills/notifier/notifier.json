@@ -1,0 +1,8 @@
+{
+  "feishu": {
+    "appId": "",
+    "appSecret": "",
+    "notifyTo": "",
+    "domain": "feishu"
+  }
+}
